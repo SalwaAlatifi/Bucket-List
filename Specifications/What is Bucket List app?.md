@@ -13,3 +13,11 @@ This concept can be applied to anything: a hobby you want to start, an experienc
 ## App Objectives:
 * Develop an easy, simple, and straightforward user interface.
 * Create a visually appealing UI with a cute design and a pastel grid aesthetic.
+
+## Teck stack
+1- Flutter framework for deveolping.
+2- Git and GitHub for version control.
+3- Supabase for the backend.
+4- PostgreSQL for database.
+5- GitHub for documentation.
+6- Figma for UX and UI designing.
